@@ -1,13 +1,4 @@
-"""Week 5 experiments: how accurately must the antenna position be known?
 
-SIM-6   position-error sweep (jitter), with and without autofocus
-SIM-7   images at three error levels -- what the degradation looks like
-SIM-8   drift versus jitter
-SIM-9   speed benchmark for the refactor
-
-Run:  python3 experiments_week5.py
-Writes figs/ and results_week5.json
-"""
 
 from __future__ import annotations
 
