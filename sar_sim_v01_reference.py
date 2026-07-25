@@ -1,7 +1,6 @@
 """
 sar_sim.py -- Through-wall synthetic-aperture resolution simulator.
 
-Week 4 deliverable, PoseDetection / through-wall human pose estimation.
 
 WHAT QUESTION THIS ANSWERS
 --------------------------
