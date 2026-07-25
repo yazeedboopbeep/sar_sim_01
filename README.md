@@ -1,8 +1,5 @@
 # sarsim v0.2 — through-wall synthetic-aperture radar simulator
 
-Week 5 deliverable for the **PoseDetection** venture. Successor to the Week 4
-single-file `sar_sim.py` (v0.1), which is kept as `sar_sim_v01_reference.py`.
-
 ## The question this version answers
 
 Week 4 showed the wearer's walk can synthesise an aperture long enough to
